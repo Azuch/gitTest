@@ -1,0 +1,1 @@
+openssl aes-256-cbc -d -pbkdf2 -in "file.enc" -out "output"
